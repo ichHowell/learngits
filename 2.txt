@@ -7,5 +7,9 @@ Creating a new branch is quick &simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
+<<<<<<< HEAD
 秀还是你秀
+=======
+小伙子
+>>>>>>> featurel
 
