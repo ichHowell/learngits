@@ -2,3 +2,5 @@ learning is a great thing.
 Git is very good.
 try something faster.
 would this changes?
+Creating a new branch is quick AND simple.
+
